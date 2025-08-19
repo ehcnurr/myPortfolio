@@ -4,6 +4,10 @@
     font-family: 'Montserrat', sans-serif;
 }
 
+#last-project {
+    margin-bottom: 40px;
+}
+
 .profile {
     display: flex;
     align-items: center;
@@ -83,6 +87,7 @@
     align-items: flex-start;
     gap: 50px;
     margin-top: 50px;
+    margin-bottom: 30px;
 }
 
 .edu-item {
@@ -186,8 +191,4 @@
 .project-text-column p {
     text-align: justify;
     line-height: 1.5;
-}
-
-#last-projeect {
-    margin-bottom: 50px;
 }
